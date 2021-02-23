@@ -16,7 +16,7 @@ int window_width = 480;
 int window_height = 480;
 
 //  judul window
-char *judul_window = "Lingkarannya Arief";
+char *judul_window = "Lingkarannya hakam";
 
 void main(int argc, char **argv)
 {
